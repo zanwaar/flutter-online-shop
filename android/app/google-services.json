@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "559883715196",
+    "project_id": "online-batukel",
+    "storage_bucket": "online-batukel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559883715196:android:9b7abe2d5d9988c2e8fff9",
+        "android_client_info": {
+          "package_name": "com.example.flutter_onlineshop_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn4n17BsOnpB7SNR2i6OP5FPByIURTxAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
